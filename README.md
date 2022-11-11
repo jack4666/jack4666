@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**jack4666/jack4666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jack4666/jack4666** is a ✨ _special_ ✨ 
 
-Here are some ideas to get you started:
+I am from Ukraine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an experienced trader, I also install a node. Participated in various testnets, I will be glad to take part in your testnet.
+
+I’m interested in crypto currencies and metaverse.
+
+Projects : umee, ironfish, transformers, dws, nibiru
+
+Roles : umee - active mainnet validator, ironfish - active testnet validator, transformers - active testnet validator, dws - testnet validator, nibiru - testnet validator
+
+Contribution : ironfish had very different testnets, in the first phase I was actively involved in social tasks, it was something new for me, but I really liked it, I tried to participate in the ambassador program, also in all projects where I took part I tried to be useful, whether it be participating in a stress testnet, voting, or otherwise
+
+PROJECTS:
+
+* https://umee.cc/
+* https://ironfish.network/
+* https://deweb.services/
+* https://www.tfsc.io/
+* https://nibiru.fi/
