@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jack4666/jack4666** is a ✨ _special_ ✨ 
 
 I am from Ukraine.
 
