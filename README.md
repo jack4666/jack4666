@@ -22,3 +22,4 @@ PROJECTS:
 * https://deweb.services/
 * https://www.tfsc.io/
 * https://nibiru.fi/
+* https://www.aleo.org/
